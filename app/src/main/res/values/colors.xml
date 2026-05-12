@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Darker gradient colors inspired by the music icon -->
-    <color name="purple_500">#C2185B</color> <!-- Dark Pink -->
-    <color name="purple_200">#D84315</color> <!-- Dark Orange -->
 
-    <!-- Optional additional shades for flexibility -->
-    <color name="pink_primary">#C2185B</color>     <!-- Dark Pink -->
-    <color name="pink_variant">#880E4F</color>     <!-- Even Darker Pink -->
-    <color name="orange_secondary">#D84315</color> <!-- Dark Orange -->
-    <color name="orange_variant">#BF360C</color>   <!-- Even Darker Orange -->
+    <!-- Main App Theme Colors -->
+    <color name="purple_500">#E64A19</color> <!-- Deep Orange -->
+    <color name="purple_200">#FF7043</color> <!-- Soft Orange -->
 
-    <!-- Standard colors -->
+    <!-- Additional Theme Variants -->
+    <color name="pink_primary">#E64A19</color>     <!-- Main Deep Orange -->
+    <color name="pink_variant">#BF360C</color>     <!-- Dark Burnt Orange -->
+    <color name="orange_secondary">#FF7043</color> <!-- Accent Orange -->
+    <color name="orange_variant">#D84315</color>   <!-- Strong Orange -->
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#BF360C</color>   <!-- Dark Orange -->
+    <color name="gradient_end">#FF7043</color>     <!-- Light Orange -->
+
+    <!-- Background Colors -->
+    <color name="background_light">#FFF8F5</color>
+    <color name="surface_light">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#616161</color>
+
+    <!-- Standard Colors -->
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
+
 </resources>
