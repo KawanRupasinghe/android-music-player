@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Darker gradient colors inspired by the music icon -->
+    <color name="purple_500">#C2185B</color> <!-- Dark Pink -->
+    <color name="purple_200">#D84315</color> <!-- Dark Orange -->
+
+    <!-- Optional additional shades for flexibility -->
+    <color name="pink_primary">#C2185B</color>     <!-- Dark Pink -->
+    <color name="pink_variant">#880E4F</color>     <!-- Even Darker Pink -->
+    <color name="orange_secondary">#D84315</color> <!-- Dark Orange -->
+    <color name="orange_variant">#BF360C</color>   <!-- Even Darker Orange -->
+
+    <!-- Standard colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
